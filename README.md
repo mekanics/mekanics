@@ -2,9 +2,7 @@
 
 📍 Zurich 🇨🇭
 
-**Freelance tech lead & full-stack dev. 20+ years shipping software — backends, mobile apps, web. **
-
-> _I build, break and fix._
+**Freelance tech lead & full-stack dev. 20+ years shipping software — backends, mobile apps, web.**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
