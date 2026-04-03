@@ -28,7 +28,3 @@
 [![X](https://img.shields.io/badge/-@jolyAlexandre-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jolyAlexandre)
 [![Mastodon](https://img.shields.io/badge/-@jolyAlexandre-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@jolyAlexandre)
 [![GitHub](https://img.shields.io/badge/-mekanics-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mekanics)
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/mekanics)
